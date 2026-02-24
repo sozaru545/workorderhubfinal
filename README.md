@@ -1,3 +1,5 @@
+## Gbemiro Completed Backend and Julian Completed Frontend
+
 ## Business Case Summary
 
 WorkOrderHub represents the frontend and backend implementation of an Operational Management System designed to support maintenance and operational workflows. The application enables organizations to efficiently create, track, and manage work orders across multiple departments while maintaining visibility into progress, bottlenecks, and completion status. The system focuses on clarity, traceability, and structured process flow, making it suitable for real-world operational environments where accountability and efficiency are critical.
